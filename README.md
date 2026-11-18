@@ -8,7 +8,7 @@
 
 **বাংলায় জাপানি শিখুন: শূন্য থেকে JLPT N5 পর্যন্ত।**
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=fyi.orizuru.app) · [Website](https://orizuru.fyi) · [News](https://orizuru.fyi/news)
+[Get it on Google Play](https://play.google.com/store/apps/details?id=fyi.orizuru.app) · [Website](https://orizuru.fyi) · [Product Hunt](https://www.producthunt.com/products/orizuru) · [News](https://orizuru.fyi/news)
 
 </div>
 
